@@ -14,22 +14,22 @@ This is an Instagram clone built using SwiftUI for iOS. The app replicates some 
 
 ## Screenshots
 
-![Login Screen](./Instagram/Instagram/ScreenShots/login.png)
+![Login Screen](./Instagram/ScreenShots/login.png)
 *Login Screen*
 
-![Feed Screen](./Instagram/Instagram/ScreenShots/feed.png)
+![Feed Screen](./Instagram/ScreenShots/feed.png)
 *Feed Screen*
 
-![Profile Screen](./Instagram/Instagram/ScreenShots/profile.png)
+![Profile Screen](./Instagram/ScreenShots/profile.png)
 *Profile Screen*
 
-![Profile Edit](./Instagram/Instagram/ScreenShots/profile_edit.png)
+![Profile Edit](./Instagram/ScreenShots/profile_edit.png)
 *Profile Edit Screen*
 
-![Users Screen](./Instagram/Instagram/ScreenShots/users.png)
+![Users Screen](./Instagram/ScreenShots/users.png)
 *Users Screen*
 
-![Post Upload Screen](./Instagram/Instagram/ScreenShots/upload.png)
+![Post Upload Screen](./Instagram/ScreenShots/upload.png)
 *Post Upload Screen*
 
 ## Requirements
