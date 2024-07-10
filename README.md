@@ -14,23 +14,42 @@ This is an Instagram clone built using SwiftUI for iOS. The app replicates some 
 
 ## Screenshots
 
-<img src="./Instagram/ScreenShots/login.png" alt="Login Screen" width="300"/>
-*Login Screen*
-
-<img src="./Instagram/ScreenShots/feed.png" alt="Feed Screen" width="300"/>
-*Feed Screen*
-
-<img src="./Instagram/ScreenShots/profile.png" alt="Profile Screen" width="300"/>
-*Profile Screen*
-
-<img src="./Instagram/ScreenShots/profile_edit.png" alt="Profile Edit Screen" width="300"/>
-*Profile Edit Screen*
-
-<img src="./Instagram/ScreenShots/users.png" alt="Users Screen" width="300"/>
-*Users Screen*
-
-<img src="./Instagram/ScreenShots/upload.png" alt="Post Upload Screen" width="300"/>
-*Post Upload Screen*
+<table>
+  <tr>
+    <td>
+      <img src="./Instagram/ScreenShots/login.png" alt="Login Screen" width="200"/>
+      <br>
+      <em>Login Screen</em>
+    </td>
+    <td>
+      <img src="./Instagram/ScreenShots/feed.png" alt="Feed Screen" width="200"/>
+      <br>
+      <em>Feed Screen</em>
+    </td>
+    <td>
+      <img src="./Instagram/ScreenShots/profile.png" alt="Profile Screen" width="200"/>
+      <br>
+      <em>Profile Screen</em>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="./Instagram/ScreenShots/profile_edit.png" alt="Profile Edit Screen" width="200"/>
+      <br>
+      <em>Profile Edit Screen</em>
+    </td>
+    <td>
+      <img src="./Instagram/ScreenShots/users.png" alt="Users Screen" width="200"/>
+      <br>
+      <em>Users Screen</em>
+    </td>
+    <td>
+      <img src="./Instagram/ScreenShots/upload.png" alt="Post Upload Screen" width="200"/>
+      <br>
+      <em>Post Upload Screen</em>
+    </td>
+  </tr>
+</table>
 
 ## Requirements
 
