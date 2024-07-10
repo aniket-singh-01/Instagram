@@ -34,7 +34,7 @@ This is an Instagram clone built using SwiftUI for iOS. The app replicates some 
   </tr>
   <tr>
     <td>
-      <img src="./Instagram/ScreenShots/profile_edit.png" alt="Profile Edit Screen" width="200"/>
+      <img src="./Instagram/ScreenShots/edit_profile.png" alt="Profile Edit Screen" width="200"/>
       <br>
       <em>Profile Edit Screen</em>
     </td>
