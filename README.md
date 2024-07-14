@@ -61,7 +61,7 @@ This is an Instagram clone built using SwiftUI for iOS. The app replicates some 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/aniket-singh-01/instagram-clone.git
+    git clone https://github.com/aniket-singh-01/instagram.git
     ```
 2. Navigate to the project directory:
     ```bash
