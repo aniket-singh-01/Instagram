@@ -65,11 +65,11 @@ This is an Instagram clone built using SwiftUI for iOS. The app replicates some 
     ```
 2. Navigate to the project directory:
     ```bash
-    cd instagram-clone
+    cd instagram
     ```
 3. Open the project in Xcode:
     ```bash
-    open InstagramClone.xcodeproj
+    open instagram.xcodeproj
     ```
 4. Run the project on a simulator or a connected device.
 
